@@ -1,6 +1,7 @@
 <div align="center">
 
 # STM32 GPIO Configurator
+<img width="1920" height="1080" alt="Screenshot From 2026-08-23 18-22-27" src="https://github.com/user-attachments/assets/d719e8a9-2721-4754-bdf5-b9a1520a7118" />
 
 ### A Qt-based desktop tool that generates clean, HAL-free, MISRA-oriented STM32F4 GPIO code
 
